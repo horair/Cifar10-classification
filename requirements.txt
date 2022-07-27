@@ -1,7 +1,5 @@
 absl-py==1.2.0
 altair==4.2.0
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569878360/work
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 astunparse==1.6.3
 attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
